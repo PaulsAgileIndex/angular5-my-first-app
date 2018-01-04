@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
@@ -25,3 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular5-my-first-app
+Based on udemy course: Angular 5 - The Complete Guide
+
+[https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/content](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/content)
+>>>>>>> 5e3351109334a924d3af918a3bd81334a98d4edb
